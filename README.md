@@ -8,4 +8,6 @@ For a description on using Photo Curves, please see:
 
 https://photorealityar.com/photocurves.html
 
-<img src=documentation/FractalFlowNoise.JPG width="70%" height="70%">
+<img src=images/PhotoCurves.png width="70%" height="70%">
+
+<img src=images/ToneCurves.png width="70%" height="70%">
