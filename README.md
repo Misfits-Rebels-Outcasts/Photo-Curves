@@ -8,6 +8,10 @@ For a description on using Photo Curves, please see:
 
 https://photorealityar.com/photocurves.html
 
-<img src=images/PhotoCurves.png width="70%" height="70%">
+## Photo Curve - RGB
 
-<img src=images/ToneCurves.png width="70%" height="70%">
+<img src=images/PhotoCurves.png width="50%" height="50%">
+
+## RGB Tone Curve - Red Channel
+
+<img src=images/ToneCurves.png width="50%" height="50%">
