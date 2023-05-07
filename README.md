@@ -15,3 +15,35 @@ https://photorealityar.com/photocurves.html
 ## RGB Tone Curve - Red Channel
 
 <img src=images/ToneCurves.png width="50%" height="50%">
+
+# Source Code License - GPLv2
+
+Photo Curves
+Copyright (C) 2023 djembe-waka 
+
+This program is free software; you can redistribute it and/or
+modify it under the terms of the GNU General Public License
+as published by the Free Software Foundation; either version 2
+of the License, or (at your option) any later version.
+
+This program is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with this program; if not, write to the Free Software
+Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
+
+# Compile
+
+### Prerequisites
+
+* XCode 14
+* iOS 16
+
+### Build
+
+* Download the Source Code
+* Launch XCode and load Pipeline.xcodeproj 
+* Build and run on iPhone Simulator or Device
