@@ -4,6 +4,8 @@ A photo taken from a digital camera may appear as too dull or bright. This is a 
 
 Unlike the ordinary brightness and contrast filters, that applies the effect to the whole image equally, the tone curve filter allows the user to adjust these values locally. This means, for example, that some darker regions can be given a bigger boost compared to the brigher regions. 
 
+A default photo tone curve is a linear line mapping the same colors (or brightness, hue etc) to itself. By adjusting the curve to a smooth non-linear form, such as the exponential function, reciprocal fucntion, sinusiodal function, or S-shaped curve, the quality of the photo can be greatly improved. 
+
 For a detailed description on using Photo Curves, please refer to:
 
 https://photorealityar.com/photocurves.html
