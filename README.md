@@ -2,7 +2,7 @@
 
 A photo taken from a digital camera may appear as too dull or bright. This is a situation where we could use a photo curve for photo post-processing to make our photos look dramatically better. Applying a tone curve to a photo can be thought of as a way of remapping an image tonality, enabling us to adjust brightness, increase contrast, or emphasize certain colors. 
 
-Unlike the ordinary brightness and contrast filters, that applies the effect to the whole image equally, the tone curve filter allows the user to adjust these values locally. This means, for example, that some darker regions can be given a bigger boost compared to the brigher regions. 
+Unlike the ordinary brightness and contrast filters, that applies the effect to the whole image equally, the tone curve filter allows the user to adjust these values locally. This means, for example, that some darker regions can be given a bigger boost compared to the brigher regions. By tweaking the curve a little here and there, the user can continuosaly refine the photo until he / she is completely satisfied with the results.
 
 A default photo tone curve is a linear line mapping the same colors (or brightness, hue etc) to itself. By adjusting the curve to a smooth non-linear form, such as the exponential function, reciprocal fucntion, sinusiodal function, or S-shaped curve, the quality of the photo can be greatly improved. 
 
