@@ -24,6 +24,18 @@ https://photorealityar.com/photocurves.html
 
 <img src=images/ToneCurves.png width="50%" height="50%">
 
+## Background
+This article is part of a 100 days series that explores the use of Digital Compositing for Photo Editing and Photo Post-Processing.
+
+## Why bother?
+
+“The ability to express what we want to do Succinctly”
+
+Using Digital Compositing has a significant impact on many things including: the way we design graphics software, how we write articles to discuss image post-processing, and how it can help people quickly understand a graphical process. Find out more at the following:
+
+[Digital Compositing for Photo Editing on iPhone](https://photorealityar.com/digitalcompositing.html)
+
+
 # Source Code License - GPLv2
 
 Photo Curves
