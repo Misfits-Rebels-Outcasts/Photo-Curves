@@ -10,6 +10,12 @@ For a detailed description on using Photo Curves, please refer to:
 
 https://photorealityar.com/photocurves.html
 
+## Free App in App Store
+
+* [Photo Tone Curves](https://apps.apple.com/us/app/photo-tone-curves/id6448858078)
+
+  <img src="photocurveicon.png" width="12%" height="12%">
+  
 ## Photo Curve - RGB
 
 <img src=images/PhotoCurves.png width="50%" height="50%">
