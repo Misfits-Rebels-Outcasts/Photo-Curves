@@ -1,4 +1,4 @@
-# Photo-Curves
+# Photo Curves
 
 A photo taken from a digital camera may appear as too dull or bright. This is a situation where we could use a photo curve for photo post-processing to make our photos look dramatically better. Applying a tone curve to a photo can be thought of as a way of remapping an image tonality, enabling us to adjust brightness, increase contrast, or emphasize certain colors. 
 
@@ -10,6 +10,12 @@ For a detailed description on using Photo Curves, please refer to:
 
 https://photorealityar.com/photocurves.html
 
+## Free App in App Store
+
+* [Photo Tone Curves](https://apps.apple.com/us/app/photo-tone-curves/id6448858078)
+
+  <img src="photocurveicon.png" width="12%" height="12%">
+  
 ## Photo Curve - RGB
 
 <img src=images/PhotoCurves.png width="50%" height="50%">
@@ -17,6 +23,18 @@ https://photorealityar.com/photocurves.html
 ## RGB Tone Curve - Red Channel
 
 <img src=images/ToneCurves.png width="50%" height="50%">
+
+## Background
+This article is part of a 100 days series that explores the use of Digital Compositing for Photo Editing and Photo Post-Processing.
+
+## Why bother?
+
+“The ability to express what we want to do Succinctly”
+
+Using Digital Compositing has a significant impact on many things including: the way we design graphics software, how we write articles to discuss image post-processing, and how it can help people quickly understand a graphical process. Find out more at the following:
+
+[Digital Compositing for Photo Editing on iPhone](https://photorealityar.com/digitalcompositing.html)
+
 
 # Source Code License - GPLv2
 
@@ -41,11 +59,11 @@ Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
 
 ### Prerequisites
 
-* XCode 14
+* Xcode 14
 * iOS 16
 
 ### Build
 
 * Download the Source Code
-* Launch XCode and load Photo Curves.xcodeproj 
+* Launch Xcode and load Photo Curves.xcodeproj 
 * Build and run on iPhone Simulator or Device
